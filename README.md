@@ -15,6 +15,8 @@ When the game launches, it should say "---READY---" in the console (open console
 **Do not close main.exe mid-run**
 **If you restart a run, close main.exe and open it again before starting**
 
+**Do Not Load a Save Before a Split. This will break the Splits. If you do by accident, Right Click Live Splits -> Control -> Undo Split**
+
 ## Speedrunning Rules
 - Vanilla GAMMA Must Be Used, No Adding Mods/Removing Mods (Except For This One Obviously).
 - No Debug Mode (Disable it in the Anomaly Launcher)
