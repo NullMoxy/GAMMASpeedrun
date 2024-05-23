@@ -6,7 +6,7 @@ Tools for Speedrunning S.T.A.L.K.E.R. GAMMA
 2. Run Live Splits
 3. Right Click Live Splits -> Open Splits -> From URL... -> [Right Click this link, copy it into the text box](https://raw.githubusercontent.com/NullMoxy/GAMMASpeedrun/main/GAMMASpeedrun.lss)
 4. **IMPORTANT - Right click Live Splits -> Control -> Start TCP Server**
-5. Download The Latest Release of GAMMASpeedrun
+5. Download The Latest Release of [GAMMASpeedrun](https://github.com/NullMoxy/GAMMASpeedrun/releases/download/Release/GAMMASpeedrun.zip)
 6. Install Via MO2, Make sure it is at the bottom of your MO2 Load order
 7. **BEFORE LAUNCHING GAMMA, Right click the installed mod (GAMMASpeedrun) in MO2, Click Open in Explorer, Navigate to SpeedrunLink\gamedata\scripts, Run main.exe**
 8. Launch GAMMA Through MO2
