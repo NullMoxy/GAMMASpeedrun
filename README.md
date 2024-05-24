@@ -37,5 +37,10 @@ When the game launches, it should say "---READY---" in the console (open console
   <img src="https://raw.githubusercontent.com/NullMoxy/GAMMASpeedrun/main/imgs/FastTravelSettings.png">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NullMoxy/GAMMASpeedrun/main/imgs/BrainScorcherBlocks.PNG">
+</p>
+
+
 ## Troubleshooting
 If your game is crashing on launch look at the log file, you probably haven't run main.exe or started the TCP Server on livesplits.
